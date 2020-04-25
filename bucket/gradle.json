@@ -3,7 +3,7 @@
     "description": "An open-source build automation tool focused on flexibility and performance. (Source code and documentation boundled)",
     "version": "6.3",
     "license": "Apache-2.0",
-    "hash": "0f316a67b971b7b571dac7215dcf2591a30994b3450e0629925ffcfe2c68cc5c",
+    "hash": "712f7a3c6bf6246296d7d1f751c515f79dd2caf9ae0b07dd46dddea2c2173263",
     "url": "https://services.gradle.org/distributions/gradle-6.3-all.zip",
     "extract_dir": "gradle-6.3",
     "bin": "bin\\gradle.bat",
